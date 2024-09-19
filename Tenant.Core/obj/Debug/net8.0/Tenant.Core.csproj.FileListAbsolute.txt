@@ -1,0 +1,11 @@
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\bin\Debug\net8.0\Tenant.Core.deps.json
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\bin\Debug\net8.0\Tenant.Core.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\bin\Debug\net8.0\Tenant.Core.pdb
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.AssemblyInfoInputs.cache
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.AssemblyInfo.cs
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\refint\Tenant.Core.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.pdb
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\ref\Tenant.Core.dll

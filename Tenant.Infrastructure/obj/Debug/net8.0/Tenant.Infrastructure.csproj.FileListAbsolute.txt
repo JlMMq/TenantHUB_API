@@ -1,0 +1,15 @@
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\bin\Debug\net8.0\Tenant.Infrastructure.deps.json
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\bin\Debug\net8.0\Tenant.Infrastructure.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\bin\Debug\net8.0\Tenant.Infrastructure.pdb
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\bin\Debug\net8.0\Tenant.Core.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\bin\Debug\net8.0\Tenant.Core.pdb
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.I.F5B52312.Up2Date
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\refint\Tenant.Infrastructure.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.pdb
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\ref\Tenant.Infrastructure.dll

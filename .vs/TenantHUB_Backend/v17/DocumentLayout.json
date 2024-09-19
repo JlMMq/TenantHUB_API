@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:50:40.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:34:46.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Tenant.Core\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:57:10.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tenant.Api\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Program.cs",
+              "RelativeToolTip": "Tenant.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:40:20.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Tenant.Api\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\appsettings.json",
+              "RelativeToolTip": "Tenant.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T20:37:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Tenant.Api\\Controllers\\MainController.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Tenant.Api\\Controllers\\MainController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:20:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Tenant.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Tenant.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T20:37:46.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Tenant.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:30:01.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Tenant.Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "Tenant.Api\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:24:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tenant.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tenant.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:33:53.98Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

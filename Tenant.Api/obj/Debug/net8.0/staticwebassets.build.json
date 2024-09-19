@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qclyZiVbUiDWaa/a5A3hMqu67H60kqB3NqFu7YOeO/Q=",
+  "Source": "Tenant.Api",
+  "BasePath": "_content/Tenant.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
