@@ -13,3 +13,4 @@ D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\refint\Tenant.Infrastructure.dll
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.pdb
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\ref\Tenant.Infrastructure.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Infrastructure\obj\Debug\net8.0\Tenant.Infrastructure.sourcelink.json

@@ -15,9 +15,10 @@ namespace Tenant.Infrastructure.UnitOfWork
     {
         private readonly ApplicationDbContext _context;
         private IConfiguration _configuration;
-
+        
         //Interfaces
         private IBaseRepository _baseRepository;
+        private IDocumentoRepository _documentoRepository;
 
         public UnitOfWork(ApplicationDbContext context, IConfiguration configuration)
         {
@@ -28,6 +29,11 @@ namespace Tenant.Infrastructure.UnitOfWork
         public IBaseRepository BaseRepository 
         {
             get { return _baseRepository ??= new BaseRepository(_context, _configuration); }
+        }
+
+        public IDocumentoRepository DocumentoRepository
+        {
+            get { return _documentoRepository ??= new DocumentoRepository(_context, _configuration); }
         }
     }
 }

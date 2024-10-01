@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tenant.Core.Responses.Documento;
 
 namespace Tenant.Core.Interfaces
 {
-    public interface IUnitOfWork
+    public interface IDocumentoRepository
     {
-        IBaseRepository BaseRepository { get; }
-        IDocumentoRepository DocumentoRepository { get; }
+        Task<IEnumerable<SP_LIST_DOCUMENTO_GEN_Response>> ListadoGeneralDocumentos();
     }
 }

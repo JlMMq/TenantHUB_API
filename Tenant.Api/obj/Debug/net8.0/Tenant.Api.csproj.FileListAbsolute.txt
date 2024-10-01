@@ -72,3 +72,4 @@ D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Api\bin\Debug\net8.0\Tenant.Core
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Api\bin\Debug\net8.0\Tenant.Infrastructure.dll
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Api\bin\Debug\net8.0\Tenant.Core.pdb
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Api\bin\Debug\net8.0\Tenant.Infrastructure.pdb
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Api\obj\Debug\net8.0\Tenant.Api.sourcelink.json

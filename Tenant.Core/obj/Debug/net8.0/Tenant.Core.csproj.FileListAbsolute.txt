@@ -9,3 +9,4 @@ D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Cor
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\refint\Tenant.Core.dll
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.pdb
 D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\ref\Tenant.Core.dll
+D:\Proyectos\TenantHub\TenantHUB_Backend\Tenant.Core\obj\Debug\net8.0\Tenant.Core.sourcelink.json
