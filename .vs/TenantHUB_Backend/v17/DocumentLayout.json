@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.infrastructure\\repositories\\documentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\repositories\\documentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.api\\controllers\\inquilinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\controllers\\inquilinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.api\\controllers\\documentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.core\\requests\\inquilino\\sp_insert_inquilino_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\requests\\inquilino\\sp_insert_inquilino_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.infrastructure\\repositories\\inquilinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\repositories\\inquilinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.core\\interfaces\\iinquilinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\iinquilinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\controllers\\documentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\controllers\\documentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,23 +31,35 @@
       "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.core\\interfaces\\idocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\idocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.infrastructure\\repositories\\documentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\repositories\\documentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.core\\responses\\inquilino\\sp_list_inquilino_grid_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\responses\\inquilino\\sp_list_inquilino_grid_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.core\\responses\\documento\\sp_list_documento_gen_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\responses\\documento\\sp_list_documento_gen_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.core\\interfaces\\idocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\idocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0493C6C5-2348-4724-8EF6-5893BC9B150C}|Tenant.Infrastructure\\Tenant.Infrastructure.csproj|solutionrelative:tenant.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|d:\\proyectos\\tenanthub\\tenanthub_backend\\tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED63E08B-5A0A-4FB6-9EF5-6F141F669723}|Tenant.Core\\Tenant.Core.csproj|solutionrelative:tenant.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB954C09-EC9D-4990-B313-F7497CF38A91}|Tenant.Api\\Tenant.Api.csproj|solutionrelative:tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -99,38 +119,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DocumentoController.cs",
-              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\DocumentoController.cs",
-              "RelativeDocumentMoniker": "Tenant.Api\\Controllers\\DocumentoController.cs",
-              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\DocumentoController.cs",
-              "RelativeToolTip": "Tenant.Api\\Controllers\\DocumentoController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Title": "SP_INSERT_INQUILINO_Request.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Requests\\Inquilino\\SP_INSERT_INQUILINO_Request.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Requests\\Inquilino\\SP_INSERT_INQUILINO_Request.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Requests\\Inquilino\\SP_INSERT_INQUILINO_Request.cs",
+              "RelativeToolTip": "Tenant.Core\\Requests\\Inquilino\\SP_INSERT_INQUILINO_Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:05:19.621Z",
+              "WhenOpened": "2024-10-02T02:03:43.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DocumentoRepository.cs",
-              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
-              "RelativeDocumentMoniker": "Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
-              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
-              "RelativeToolTip": "Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABzAAAA",
+              "Title": "InquilinoController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\InquilinoController.cs",
+              "RelativeDocumentMoniker": "Tenant.Api\\Controllers\\InquilinoController.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\InquilinoController.cs",
+              "RelativeToolTip": "Tenant.Api\\Controllers\\InquilinoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:37:31.307Z",
+              "WhenOpened": "2024-10-02T01:08:52.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "InquilinoRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\InquilinoRepository.cs",
+              "RelativeDocumentMoniker": "Tenant.Infrastructure\\Repositories\\InquilinoRepository.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\InquilinoRepository.cs",
+              "RelativeToolTip": "Tenant.Infrastructure\\Repositories\\InquilinoRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:02:38.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInquilinoRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IInquilinoRepository.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IInquilinoRepository.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IInquilinoRepository.cs",
+              "RelativeToolTip": "Tenant.Core\\Interfaces\\IInquilinoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:06:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IUnitOfWork.cs",
               "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IUnitOfWork.cs",
               "RelativeToolTip": "Tenant.Core\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T20:30:01.392Z",
               "EditorCaption": ""
@@ -138,45 +184,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SP_LIST_DOCUMENTO_GEN_Response.cs",
-              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
-              "RelativeDocumentMoniker": "Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
-              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
-              "RelativeToolTip": "Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:56:02.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
               "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
               "RelativeToolTip": "Tenant.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T20:34:46.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDocumentoRepository.cs",
-              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
-              "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
-              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
-              "RelativeToolTip": "Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABVAAAA",
+              "DocumentIndex": 9,
+              "Title": "SP_LIST_INQUILINO_GRID_Response.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Responses\\Inquilino\\SP_LIST_INQUILINO_GRID_Response.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Responses\\Inquilino\\SP_LIST_INQUILINO_GRID_Response.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Responses\\Inquilino\\SP_LIST_INQUILINO_GRID_Response.cs",
+              "RelativeToolTip": "Tenant.Core\\Responses\\Inquilino\\SP_LIST_INQUILINO_GRID_Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:02:26.003Z",
+              "WhenOpened": "2024-10-02T01:01:01.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "SP_LIST_DOCUMENTO_GEN_Response.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
+              "RelativeToolTip": "Tenant.Core\\Responses\\Documento\\SP_LIST_DOCUMENTO_GEN_Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:56:02.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IBaseRepository.cs",
@@ -184,12 +230,11 @@
               "RelativeToolTip": "Tenant.Core\\Interfaces\\IBaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T20:57:10.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T20:57:10.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Tenant.Api\\appsettings.Development.json",
@@ -197,12 +242,11 @@
               "RelativeToolTip": "Tenant.Api\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T20:37:46.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T20:37:46.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Program.cs",
               "RelativeDocumentMoniker": "Tenant.Api\\Program.cs",
@@ -214,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Tenant.Api\\appsettings.json",
@@ -226,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ApplicationServiceExtensions.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "Tenant.Api\\Extensions\\ApplicationServiceExtensions.cs",
@@ -238,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Tenant.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -252,7 +296,7 @@
         },
         {
           "DockedWidth": 187,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -260,7 +304,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "DocumentoController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\DocumentoController.cs",
+              "RelativeDocumentMoniker": "Tenant.Api\\Controllers\\DocumentoController.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\DocumentoController.cs",
+              "RelativeToolTip": "Tenant.Api\\Controllers\\DocumentoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:05:19.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Tenant.Api\\Controllers\\MainController.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Tenant.Api\\Controllers\\MainController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:20:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
@@ -268,20 +338,32 @@
               "RelativeToolTip": "Tenant.Infrastructure\\Repositories\\BaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T20:50:40.487Z",
+              "WhenOpened": "2024-08-28T20:50:40.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentoRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
+              "RelativeDocumentMoniker": "Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
+              "RelativeToolTip": "Tenant.Infrastructure\\Repositories\\DocumentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:37:31.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\MainController.cs",
-              "RelativeDocumentMoniker": "Tenant.Api\\Controllers\\MainController.cs",
-              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Api\\Controllers\\MainController.cs",
-              "RelativeToolTip": "Tenant.Api\\Controllers\\MainController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "DocumentIndex": 7,
+              "Title": "IDocumentoRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
+              "RelativeDocumentMoniker": "Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
+              "ToolTip": "D:\\Proyectos\\TenantHub\\TenantHUB_Backend\\Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
+              "RelativeToolTip": "Tenant.Core\\Interfaces\\IDocumentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T20:20:35.062Z",
+              "WhenOpened": "2024-10-01T16:02:26.003Z",
               "EditorCaption": ""
             }
           ]

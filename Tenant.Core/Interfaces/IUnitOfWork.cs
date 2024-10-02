@@ -10,5 +10,6 @@ namespace Tenant.Core.Interfaces
     {
         IBaseRepository BaseRepository { get; }
         IDocumentoRepository DocumentoRepository { get; }
+        IInquilinoRepository InquilinoRepository { get; }
     }
 }

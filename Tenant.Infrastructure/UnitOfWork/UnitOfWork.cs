@@ -19,7 +19,7 @@ namespace Tenant.Infrastructure.UnitOfWork
         //Interfaces
         private IBaseRepository _baseRepository;
         private IDocumentoRepository _documentoRepository;
-
+        private IInquilinoRepository _inquilinoRepository;
         public UnitOfWork(ApplicationDbContext context, IConfiguration configuration)
         {
             _context = context;
@@ -35,5 +35,11 @@ namespace Tenant.Infrastructure.UnitOfWork
         {
             get { return _documentoRepository ??= new DocumentoRepository(_context, _configuration); }
         }
+
+        public IInquilinoRepository InquilinoRepository
+        {
+            get { return _inquilinoRepository ??= new InquilinoRepository(_context, _configuration); }
+        }
+
     }
 }
